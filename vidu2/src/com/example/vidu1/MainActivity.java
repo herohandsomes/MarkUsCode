@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
             	String s = object.getString("SUPER_MARKET_BRAND_NAME");
             	Toast.makeText(getApplicationContext(), t + " " + s, Toast.LENGTH_LONG).show();
             } else {
-              // something went wrong
+              // word
             }
           }
         });

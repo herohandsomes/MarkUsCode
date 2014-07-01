@@ -1,5 +1,10 @@
 # cache for current jar dependency. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
+<<<<<<< HEAD
 1404209851033 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\herohandsomesss\Documents\GitHub\MarkUsCode\vidu2\libs\android-support-v4.jar
 1404209845690 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\herohandsomesss\Documents\GitHub\MarkUsCode\appcompat_v7_12\libs\android-support-v4.jar
+=======
+1404209960650 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\Quanthomas\git\MarkUsCode\vidu2\libs\android-support-v4.jar
+1404209958922 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\Quanthomas\git\MarkUsCode\appcompat_v7_12\libs\android-support-v4.jar
+>>>>>>> b36ae44751d82960a31d069d73fe3f00ec4699c4
