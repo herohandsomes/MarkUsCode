@@ -1,21 +1,13 @@
 package com.example.vidu1;
 
-import java.util.List;
-
 import com.parse.Parse;
 import com.parse.ParseObject;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.parse.ParseAnalytics;
-import com.parse.ParseInstallation;
 import com.parse.ParseQuery;
-import com.parse.PushService;
 import com.parse.ParseException;
 import com.parse.GetCallback;
 
